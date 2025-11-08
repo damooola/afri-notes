@@ -59,4 +59,4 @@ This project is provided under the MIT License. See `LICENSE` for details (or ad
 
 ## Credit
 
-Figma Design inspirtaion : <https://www.figma.com/design/Ww19DvvD45kngUDZYTqaKj/Notes-App-UI--Community-?node-id=0-1&p=f&t=81UAZSTSnrz9GQBQ-0>
+Figma Design inspiration : <https://www.figma.com/design/Ww19DvvD45kngUDZYTqaKj/Notes-App-UI--Community-?node-id=0-1&p=f&t=81UAZSTSnrz9GQBQ-0>

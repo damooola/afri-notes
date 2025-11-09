@@ -6,6 +6,7 @@ A lightweight, cross-platform Flutter notes application, BLoC state management, 
 
 - Create, read, update and delete notes
 - Color selection for note cards
+- Swipe to delete
 - Local persistence using `shared_preferences`
 - Search notes (live filtering)
 - App-wide theming with a Theme BLoC (light & dark)
@@ -43,19 +44,6 @@ A lightweight, cross-platform Flutter notes application, BLoC state management, 
   - `lib/features/notes/presentation/screens/home_screen.dart` — main listing and search
   - `lib/features/notes/presentation/screens/add_screen.dart` — create note
   - `lib/features/notes/presentation/screens/edit_screen.dart` — edit note
-
-## Contributing
-
-Contributions are welcome. Suggested workflow:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make changes and add tests where appropriate
-4. Open a pull request with a clear description of your changes
-
-## License
-
-This project is provided under the MIT License. See `LICENSE` for details (or add a LICENSE file if you intend to publish this repository).
 
 ## Credit
 

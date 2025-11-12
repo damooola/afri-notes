@@ -34,7 +34,7 @@ A lightweight, cross-platform Flutter notes application, BLoC state management, 
 - google_fonts — custom fonts
 - flutter_screenutil — responsive sizing
 - fluter_ slidable  — for slidable note cards
-- (SVG assets used in UI; verify `flutter_svg` if needed in `pubspec.yaml`)
+- SVG assets used in UI with `flutter_svg`
 
 ## Notes about architecture and implementation
 
